@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @preethamn
-- 👀 I’m interested in DataScience
-- 🌱 I’m currently learning Python Micropython
-- 💞️ I’m looking to collaborate on ML and AI
+- 👀 Kaggle-CLi-Github-Huggingface
+- 💞️ I’m looking to collaborate on ML,AI and Robotics
 - 📫 How to reach me preethamn1818@gmail.com
 
 <!---
